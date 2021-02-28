@@ -18,3 +18,7 @@
      <input id="potato" type="radio" name="food" required />
    - <label for="beer">beer</label>
      <input id="beer" type="radio" name="food" required />
+
+1. not yet
+1. not yet
+1. A1
