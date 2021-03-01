@@ -1,0 +1,9 @@
+.text {
+  margin: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.list {
+  border: 1px solid blue;
+}
