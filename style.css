@@ -1,0 +1,16 @@
+.text {
+  margin: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.list {
+  border: 1px solid blue;
+}
+
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
